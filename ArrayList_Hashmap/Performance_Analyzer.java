@@ -16,4 +16,12 @@ Value = List of marks in that course
 Calculate and display:
 Average marks for each course
 Course with highest average
-*/
+Hint:
+
+Break the problem into steps:
+
+First store raw data in ArrayList
+Then group marks by course using HashMap
+Then iterate HashMap to calculate averages
+Finally compare averages
+  */
