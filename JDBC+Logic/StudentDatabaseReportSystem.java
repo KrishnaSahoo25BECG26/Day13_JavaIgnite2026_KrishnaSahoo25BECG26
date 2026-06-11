@@ -22,7 +22,7 @@ Then filter while reading result
 import java.util.ArrayList;
 import java.sql.*;
 
-public class Main {
+public class StudentDatabaseReportSystem {
 
     public static void main(String[] args) {
 

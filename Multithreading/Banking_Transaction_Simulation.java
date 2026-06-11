@@ -38,7 +38,7 @@ class BankAccount {
         System.out.println("Deposited: " + amt + " | Balance: " + balance);
     }
 }
-public class Main {
+public class Banking_Transaction_Simulation {
     public static void main(String[] args) throws InterruptedException {
         BankAccount acc = new BankAccount();
         Random r = new Random();

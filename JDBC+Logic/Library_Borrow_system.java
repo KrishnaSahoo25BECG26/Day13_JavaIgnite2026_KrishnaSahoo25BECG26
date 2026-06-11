@@ -25,7 +25,7 @@ Use if-else inside Java after ResultSet
 
 import java.util.Scanner;
 import java.sql.*;
-public class Main {
+public class Library_Borrow_system {
     public static void main(String[] args) {
         String url = "jdbc:mysql://localhost:3306/library_db";
         String user = "root";

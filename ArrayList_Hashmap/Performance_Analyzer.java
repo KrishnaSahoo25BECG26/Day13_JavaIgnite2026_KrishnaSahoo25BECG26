@@ -42,7 +42,7 @@ class Student {
     }
 }
 
-public class Main {
+public class Performance_Analyzer {
     public static void main(String[] args) {
 
         ArrayList<Student> list = new ArrayList<>();

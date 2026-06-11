@@ -33,7 +33,7 @@ class Employee {
         this.salary = salary;
     }
 }
-public class Main {
+public class EmpDataAnalyzer {
     public static void main(String[] args) {
 
         ArrayList<Employee> list = new ArrayList<>();

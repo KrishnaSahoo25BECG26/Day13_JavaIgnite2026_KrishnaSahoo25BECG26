@@ -39,7 +39,7 @@ class T3 extends Thread {
         }
     }
 }
-public class Main {
+public class TaskScheduler {
     public static void main(String[] args) {
         T1 t1 = new T1();
         T2 t2 = new T2();
